@@ -1,0 +1,19 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Operating system files
+.DS_Store
+Thumbs.db
+*.bak
+
+# IDE/editor specific
+.vscode/
